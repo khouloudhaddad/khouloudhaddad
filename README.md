@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khouloud Haddad Amamou
 - 👀 I’m interested in Freelance Projects
-- 🌱 I’m currently working as a Full stack PHP Developer
+- 🌱 I’m currently working as a Full Stack PHP Developer as well as a front-end expert (Angular, Vue, Responsiveness...)
 - 💞️ I’m looking to collaborate on big projects
 
 <!---
