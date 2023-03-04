@@ -1,12 +1,25 @@
-- 👋 Hi, I’m Khouloud Haddad Amamou
-- 👀 I’m interested in Freelance Projects
-- 🌱 I’m currently working as a Full Stack PHP Developer as well as a front-end expert (Angular, Vue, Responsiveness...)
-- 💞️ I’m looking to collaborate on big projects
-
-<!---
-khouloudamamou88/khouloudamamou88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+### Hi there 👋
 
 
+**khouloudAmamouHaddad/khouloudamamou88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working as a Freelancer
+- 🌱 I’m currently learning DevOps for QA
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with my projects
+- 💬 Ask me about my portoflio
+- 📫 How to reach me: khouloud.haddad@gmail.com
+- 😄 Pronouns: She
+- ⚡ Fun fact: Learning Addict
+
+
+![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudamamou88&show_icons=true&theme=algolia) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudamamou88&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+<h3>My Skills</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vue,html,docker,angular,laravel,wordpress,php,nodejs,scss" />
+  </a>
+</p>
