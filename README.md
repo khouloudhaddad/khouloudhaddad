@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**khouloudAmamouHaddad/khouloudamamou88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**khouloudAmamouHaddad/khouloudhaddad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working as a Freelancer
 - 🌱 I’m currently learning DevOps for QA
@@ -13,8 +13,8 @@
 - ⚡ Fun fact: Learning Addict
 
 
-![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudamamou88&show_icons=true&theme=algolia) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudamamou88&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudhaddad&show_icons=true&theme=algolia) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudhaddad&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>My Skills</h3>
 
