@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a Freelancer
 - 🌱 I’m currently learning DevOps for QA
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on big projects
 - 🤔 I’m looking for help with my projects
 - 💬 Ask me about my portoflio
 - 📫 How to reach me: khouloud.haddad@gmail.com
