@@ -19,6 +19,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vue,html,docker,angular,laravel,wordpress,php,nodejs,scss,dart,java,flutter" />
+    <img src="https://skillicons.dev/icons?i=git,vue,html,docker,angular,laravel,wordpress,php,nodejs,scss,dart,java,flutter,c#" />
   </a>
 </p>
