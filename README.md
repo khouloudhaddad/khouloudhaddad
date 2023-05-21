@@ -30,13 +30,4 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=khouloudhaddad&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
-<p align="center">
-  <a href="https://khouloudhaddad.vercel.app/api/now-playing">
-    <img src="https://khouloudhaddad.vercel.app/api/now-playing">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://khouloudhaddad.vercel.app/api/top-played">
-</p>
 
