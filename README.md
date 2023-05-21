@@ -25,3 +25,14 @@
     <img src="https://skillicons.dev/icons?i=git,vue,html,docker,angular,laravel,wordpress,php,nodejs,scss,dart,java,flutter,c#" />
   </a>
 </p>
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#219](https://github.com/Shardeum/shardeum-docs/issues/219) in [Shardeum/shardeum-docs](https://github.com/Shardeum/shardeum-docs)
+2. ❗️ Opened issue [#219](https://github.com/Shardeum/shardeum-docs/issues/219) in [Shardeum/shardeum-docs](https://github.com/Shardeum/shardeum-docs)
+3. 🗣 Commented on [#25](https://github.com/khouloudhaddad/khouloudhaddad/issues/25) in [khouloudhaddad/khouloudhaddad](https://github.com/khouloudhaddad/khouloudhaddad)
+4. ❗️ Closed issue [#22](https://github.com/khouloudhaddad/khouloudhaddad/issues/22) in [khouloudhaddad/khouloudhaddad](https://github.com/khouloudhaddad/khouloudhaddad)
+5. ❗️ Closed issue [#20](https://github.com/khouloudhaddad/khouloudhaddad/issues/20) in [khouloudhaddad/khouloudhaddad](https://github.com/khouloudhaddad/khouloudhaddad)
+<!--END_SECTION:activity-->
+
