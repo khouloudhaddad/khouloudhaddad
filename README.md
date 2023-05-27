@@ -9,7 +9,6 @@
 - 🤔 I’m looking for help with my projects
 - 💬 Ask me about my portoflio
 - 📫 How to reach me: khouloud.haddad@gmail.com
-- 😄 Pronouns: She
 - ⚡ Fun fact: Learning Addict &nbsp;&nbsp;![Profile View Counter](https://komarev.com/ghpvc/?username=khouloudhaddad)&nbsp;![build](https://github.com/mopig/mopig/workflows/build/badge.svg)&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/khouloudhaddad/khouloudhaddad)
 
 ![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudhaddad&show_icons=true&theme=algolia) &nbsp;
