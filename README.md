@@ -21,9 +21,3 @@
     <img src="https://skillicons.dev/icons?i=git,vue,html,docker,angular,laravel,wordpress,php,nodejs,scss,dart,java,flutter,c#" />
   </a>
 </p>
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=khouloudhaddad&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
-</p>
-
-
