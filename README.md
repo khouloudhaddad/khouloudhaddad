@@ -18,6 +18,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vue,html,css,docker,angular,laravel,wordpress,php,nodejs,scss,dart,java,flutter,c#,react" />
+    <img src="https://skillicons.dev/icons?i=git,vue,html,docker,angular,laravel,wordpress,php,nodejs,scss,dart,java,flutter,c#,react" />
   </a>
 </p>
