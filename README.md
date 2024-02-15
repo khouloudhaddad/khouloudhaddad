@@ -10,7 +10,6 @@
 - 💬 Ask me about my portoflio
 - 📫 How to reach me: khouloud.haddad@gmail.com
 - ⚡ Fun fact: Learning Addict &nbsp;&nbsp;![Profile View Counter](https://komarev.com/ghpvc/?username=khouloudhaddad)&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/khouloudhaddad/khouloudhaddad)
-[![](https://raw.githubusercontent.com/khouloudhaddad/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudhaddad&show_icons=true&theme=algolia) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudhaddad&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
