@@ -3,7 +3,7 @@
 
 **khouloudAmamouHaddad/khouloudhaddad** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khouloudhaddad&theme=codeSTACKr) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khouloudhaddad&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khouloudhaddad&theme=codeSTACKr) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khouloudhaddad&theme=codeSTACKr)
 
 
 - 🔭 I’m currently working as a Freelancer
