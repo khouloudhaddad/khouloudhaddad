@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with my projects
 - 💬 Ask me about my portoflio
 - 📫 How to reach me: khouloud.haddad@gmail.com
-- ⚡ Fun fact: Learning Addict &nbsp;&nbsp;![Profile View Counter](https://komarev.com/ghpvc/?username=khouloudhaddad)&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/khouloudhaddad/khouloudhaddad)
+- ⚡ Fun fact: Learning Addict &nbsp;&nbsp;![Profile View Counter](https://komarev.com/ghpvc/?username=khouloudhaddad)&nbsp;&nbsp;![GitHub last commit](https://img.shields.io/github/last-commit/khouloudhaddad/khouloudhaddad)
 ![Khouloud's GitHub stats](https://github-readme-stats.vercel.app/api?username=khouloudhaddad&show_icons=true&theme=algolia) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khouloudhaddad&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
