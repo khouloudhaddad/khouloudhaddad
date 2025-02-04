@@ -2,9 +2,7 @@
 
 
 **khouloudAmamouHaddad/khouloudhaddad** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
-- 🔭 I’m currently working as a Freelancer
-- 🌱 Switching my career from Software engineering to AI & Machine learning 
+ 
 - 👯 Looking to collaborate on big projects
 - 🤔 You are welcome to collaborate in my projects
 - 📫 How to reach me: khouloud.haddad@gmail.com
